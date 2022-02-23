@@ -1,0 +1,11 @@
+.user-pic {
+    height: 26px !important;
+    width: 26px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+}
+
+
+img{
+    object-fit: cover !important;
+}

@@ -1,0 +1,251 @@
+const data = [
+        {
+            sector: "",
+            ios: 3161,
+            android: 1368,
+            total: 4529,
+            verified: 0,
+            notVerified: 4529,
+            reVerify: 0
+        },
+        {
+            sector: "Consumer",
+            ios: 43,
+            android: 6,
+            total: 49,
+            verified: 0,
+            notVerified: 0,
+            reVerify: 49
+        },
+        {
+            sector: "Corporate",
+            ios: 84,
+            android: 13,
+            total: 97,
+            verified: 0,
+            notVerified: 20,
+            reVerify: 77
+        },
+        {
+            sector: "Medical Devices",
+            ios: 51,
+            android: 18,
+            total: 69,
+            verified: 0,
+            notVerified: 17,
+            reVerify: 52
+        },
+        {
+            sector: "Non J&J",
+            ios: 867,
+            android: 1246,
+            total: 2113,
+            verified: 0,
+            notVerified: 2113,
+            reVerify: 0
+        },
+        {
+            sector: "Pharma",
+            ios: 97,
+            android: 40,
+            total: 137,
+            verified: 0,
+            notVerified: 15,
+            reVerify: 122
+        },
+        {
+            sector: "Vision",
+            ios: 50,
+            android: 8,
+            total: 58,
+            verified: 0,
+            notVerified: 10,
+            reVerify: 48
+        },
+        {
+            sector: "Consumer",
+            ios: 0,
+            android: 40,
+            total: 40,
+            verified: 0,
+            notVerified: 40,
+            reVerify: 0
+        },
+        {
+            sector: "Medical Devices",
+            ios: 0,
+            android: 6,
+            total: 6,
+            verified: 0,
+            notVerified: 6,
+            reVerify: 0
+        },
+        {
+            sector: "Non J&J",
+            ios: 28339,
+            android: 24850,
+            total: 53189,
+            verified: 1,
+            notVerified: 53187,
+            reVerify: 1
+        },
+        {
+            sector: "Pharma",
+            ios: 1,
+            android: 1,
+            total: 2,
+            verified: 0,
+            notVerified: 2,
+            reVerify: 0
+        },
+        {
+            region: "ASPAC",
+            sector: "Consumer",
+            ios: 1,
+            android: 16,
+            total: 17,
+            verified: 17,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "ASPAC",
+            sector: "Medical Devices",
+            ios: 121,
+            android: 94,
+            total: 215,
+            verified: 103,
+            notVerified: 112,
+            reVerify: 0
+        },
+        {
+            region: "ASPAC",
+            sector: "Pharma",
+            ios: 110,
+            android: 193,
+            total: 303,
+            verified: 231,
+            notVerified: 72,
+            reVerify: 0
+        },
+        {
+            region: "ASPAC",
+            sector: "Vision",
+            ios: 153,
+            android: 210,
+            total: 363,
+            verified: 347,
+            notVerified: 16,
+            reVerify: 0
+        },
+        {
+            region: "EMEA",
+            sector: "Consumer",
+            ios: 3,
+            android: 48,
+            total: 51,
+            verified: 51,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "EMEA",
+            sector: "Medical Devices",
+            ios: 119,
+            android: 66,
+            total: 185,
+            verified: 106,
+            notVerified: 79,
+            reVerify: 0
+        },
+        {
+            region: "EMEA",
+            sector: "Pharma",
+            ios: 341,
+            android: 469,
+            total: 810,
+            verified: 623,
+            notVerified: 187,
+            reVerify: 0
+        },
+        {
+            region: "EMEA",
+            sector: "Vision",
+            ios: 27,
+            android: 87,
+            total: 114,
+            verified: 101,
+            notVerified: 13,
+            reVerify: 0
+        },
+        {
+            region: "LA",
+            sector: "Consumer",
+            ios: 12,
+            android: 0,
+            total: 12,
+            verified: 12,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "LA",
+            sector: "Medical Devices",
+            ios: 16,
+            android: 37,
+            total: 53,
+            verified: 53,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "NA",
+            sector: "Consumer",
+            ios: 178,
+            android: 275,
+            total: 453,
+            verified: 453,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "NA",
+            sector: "Corporate",
+            ios: 344,
+            android: 270,
+            total: 614,
+            verified: 473,
+            notVerified: 141,
+            reVerify: 0
+        },
+        {
+            region: "NA",
+            sector: "Medical Devices",
+            ios: 159,
+            android: 267,
+            total: 426,
+            verified: 228,
+            notVerified: 198,
+            reVerify: 0
+        },
+        {
+            region: "NA",
+            sector: "Pharma",
+            ios: 42,
+            android: 82,
+            total: 124,
+            verified: 124,
+            notVerified: 0,
+            reVerify: 0
+        },
+        {
+            region: "NA",
+            sector: "Vision",
+            ios: 30,
+            android: 9,
+            total: 39,
+            verified: 7,
+            notVerified: 32,
+            reVerify: 0
+        }
+    ]

@@ -1,0 +1,22 @@
+custom settings -> stripe api
+ui -> sites -> Webhooks
+stripe events
+payment metadata 29
+
+services/apexrest/stripe
+
+api keys -> restricted keys
+
+charge.refunded
+charge.updated
+customer.subscription.deleted
+payment_intent.succeeded
+
+webhooks setup
+
+StripeWebhook.clas -> Entry point
+StripeEventLogger
+StripeEvents
+StripeEventTriggerHandler
+King@960001
+46.15
